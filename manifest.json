@@ -1,0 +1,16 @@
+{
+    // Required
+    "manifest_version": 3,
+    "name": "Background Color Generator",
+    "version": "1.0.0",
+  
+    // Recommended
+    "action": {...},
+    "default_locale": "en",
+    "description": "An extension to generate colors for linear gradient background",
+    "default_title": "Background Color Generator",
+    "default_popup": "index.html"
+}
+
+ 
+   
